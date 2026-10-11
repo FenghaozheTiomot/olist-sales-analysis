@@ -42,13 +42,15 @@ This project answers 5 business questions about a Brazilian e-commerce platform:
 
 ## Sample Visualizations
 
-![Monthly Revenue](charts/monthly_trend.png)
+![Monthly Revenue](monthly_trend.png)
 
-![Top 10 States](charts/state_revenue.png)
+![Top 10 States](state_revenue.png)
 
-![Category Ranking](charts/category_revenue.png)
+![Category Ranking](category_revenue.png)
 
-![Payment Methods](charts/payment_distribution.png)
+![Payment Methods](payment_distribution.png)
+
+![Monthly Revenue](monthly_revenue.png)
 
 ## How to Run
 
